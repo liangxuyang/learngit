@@ -4,3 +4,5 @@ Git is free software.
 Git has a mutable index called stage.
 My stupid boss still prefers SVN.
 GitHub Test
+Creating a new branch is quick.
+
